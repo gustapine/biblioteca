@@ -1,0 +1,15 @@
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\obj\Debug\net6.0\Livros2.csproj.AssemblyReference.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\obj\Debug\net6.0\Livros2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\obj\Debug\net6.0\Livros2.AssemblyInfoInputs.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\obj\Debug\net6.0\Livros2.AssemblyInfo.cs
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\obj\Debug\net6.0\Livros2.csproj.CoreCompileInputs.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\bin\Debug\net6.0\Livros2.exe
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\bin\Debug\net6.0\Livros2.deps.json
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\bin\Debug\net6.0\Livros2.runtimeconfig.json
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\bin\Debug\net6.0\Livros2.dll
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\bin\Debug\net6.0\Livros2.pdb
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\obj\Debug\net6.0\Livros2.dll
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\obj\Debug\net6.0\refint\Livros2.dll
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\obj\Debug\net6.0\Livros2.pdb
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\obj\Debug\net6.0\Livros2.genruntimeconfig.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Livros2\obj\Debug\net6.0\ref\Livros2.dll
