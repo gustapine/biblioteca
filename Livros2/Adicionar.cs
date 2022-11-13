@@ -1,15 +1,19 @@
 class Adicionar
 {
-    public string nome, editora, autor;
-    public int edicao; 
+
+    
+    public string titulo, editora, autor;
+    public int quantidade;
     public DateTime data;
 
 
-    public Adicionar(string nom,string edit,string autor, int edic, DateTime data)
+    public Adicionar(string tit, string edit,string autor, DateTime data, int quant)
     {
-        this.nome = nom;
+        this.titulo = tit;
         this.editora = edit;
-        this.edicao = edic;
         this.autor = autor;
+        this.data = data;
+        this.quantidade = quant;
+        
     }
 }

@@ -1,7 +1,5 @@
 ﻿Tela tela = new Tela(ConsoleColor.Black, ConsoleColor.White);
-
-
-
+CRUDlivros crudLivros = new CRUDlivros (tela);
 
 
 
@@ -39,17 +37,13 @@ while(true)
 
 
     if(opcao == "0") break;
-    // if(opcao == "1")
-    // if(opcao == "3")
-    // if(opcao == "3")
+    //if(opcao == "1") 
+    if(opcao == "2") crudLivros.controller();
+    if(opcao == "3") crudLivros.mostrarDadosLivro();
     if(opcao == "4"){
         Console.Write("Av. Rio Branco, 219 - Centro, Rio de Janeiro - RJ, 20040-008");
-        Console.ReadKey();
-
-    } 
-
+        Console.ReadKey();     
+    }
 
 }
-
-
 Console.Clear();
